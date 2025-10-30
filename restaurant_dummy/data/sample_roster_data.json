@@ -1,0 +1,57 @@
+[
+  {
+    "employee_id": "EMP001",
+    "employee_name": "Alice Johnson",
+    "shift_date": "2024-01-15",
+    "start_time": "09:00:00",
+    "end_time": "17:00:00",
+    "worked_hours": 8.0,
+    "hourly_rate": 28.50,
+    "total_cost": 228.00,
+    "position": "Manager"
+  },
+  {
+    "employee_id": "EMP002",
+    "employee_name": "Bob Smith",
+    "shift_date": "2024-01-15",
+    "start_time": "10:00:00",
+    "end_time": "18:00:00",
+    "worked_hours": 7.5,
+    "hourly_rate": 25.00,
+    "total_cost": 187.50,
+    "position": "Chef"
+  },
+  {
+    "employee_id": "EMP003",
+    "employee_name": "Carol Davis",
+    "shift_date": "2024-01-15",
+    "start_time": "11:00:00",
+    "end_time": "19:00:00",
+    "worked_hours": 7.5,
+    "hourly_rate": 22.50,
+    "total_cost": 168.75,
+    "position": "Server"
+  },
+  {
+    "employee_id": "EMP004",
+    "employee_name": "David Wilson",
+    "shift_date": "2024-01-15",
+    "start_time": "12:00:00",
+    "end_time": "20:00:00",
+    "worked_hours": 7.5,
+    "hourly_rate": 22.50,
+    "total_cost": 168.75,
+    "position": "Server"
+  },
+  {
+    "employee_id": "EMP006",
+    "employee_name": "Frank Miller",
+    "shift_date": "2024-01-15",
+    "start_time": "16:00:00",
+    "end_time": "23:00:00",
+    "worked_hours": 6.5,
+    "hourly_rate": 24.00,
+    "total_cost": 156.00,
+    "position": "Bartender"
+  }
+]

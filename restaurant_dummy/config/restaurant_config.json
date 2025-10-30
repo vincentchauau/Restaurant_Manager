@@ -1,0 +1,27 @@
+{
+  "restaurant": {
+    "name": "Sample Restaurant",
+    "location": "Downtown",
+    "timezone": "America/New_York"
+  },
+  "database": {
+    "type": "sqlite",
+    "path": "data/restaurant.db"
+  },
+  "api": {
+    "pos_endpoint": "https://api.example.com/pos",
+    "roster_endpoint": "https://api.example.com/roster",
+    "timeout": 30
+  },
+  "time_periods": {
+    "breakfast": {"start": "06:00", "end": "11:00"},
+    "lunch": {"start": "11:00", "end": "15:00"},
+    "dinner": {"start": "15:00", "end": "22:00"},
+    "late_night": {"start": "22:00", "end": "02:00"}
+  },
+  "settings": {
+    "data_retention_days": 90,
+    "max_records_per_batch": 1000,
+    "enable_logging": true
+  }
+}
